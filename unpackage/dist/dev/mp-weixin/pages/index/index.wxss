@@ -1,0 +1,13 @@
+.content {
+  padding: 0 40rpx;
+}
+.content image {
+  width: 100%;
+}
+.content .title {
+  display: block;
+  text-align: center;
+  font-size: 50rpx;
+  font-weight: bold;
+}
+
