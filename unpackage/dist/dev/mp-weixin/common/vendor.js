@@ -7618,9 +7618,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!*****************************************************************!*\
-  !*** /Users/Lisa/Documents/HBuilderProjects/LoveApp/pages.json ***!
-  \*****************************************************************/
+/*!*************************************************************************!*\
+  !*** /Users/Lisa/Desktop/MOST/Lisa/LisaYF-github/LoveApplet/pages.json ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8524,9 +8524,9 @@ module.exports = {"_from":"@dcloudio/uni-stat@next","_id":"@dcloudio/uni-stat@2.
 
 /***/ }),
 /* 7 */
-/*!**********************************************************************************!*\
-  !*** /Users/Lisa/Documents/HBuilderProjects/LoveApp/pages.json?{"type":"style"} ***!
-  \**********************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/Lisa/Desktop/MOST/Lisa/LisaYF-github/LoveApplet/pages.json?{"type":"style"} ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8535,9 +8535,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 8 */
-/*!*********************************************************************************!*\
-  !*** /Users/Lisa/Documents/HBuilderProjects/LoveApp/pages.json?{"type":"stat"} ***!
-  \*********************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/Lisa/Desktop/MOST/Lisa/LisaYF-github/LoveApplet/pages.json?{"type":"stat"} ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
